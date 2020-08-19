@@ -1,3 +1,0 @@
-- chưa viết được gì hết, mới chỉ fix lỗi về giao diện à
-
-- tiếp tục làm về cái function saving room
